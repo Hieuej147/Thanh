@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DocFlow_NHT</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
+    </head>
+    <body class="bg-[#d9e3f0] font-roboto">
+    <header class="bg-[#c3cfe2] p-4 flex justify-between items-center">
+        <div class="flex items-center">
+            <img alt="Logo" class="mr-2" height="50" src="https://storage.googleapis.com/a1aa/image/KcjsW9u_NI4r7lm03OorUTnEicQQ0WCaG4V7Ryod52I.jpg" width="50"/>
+            <h1 class="text-2xl font-bold">DocFlow_NHT</h1>
+        </div>
+        <div class="flex items-center space-x-4 flex-grow justify-center">
+            <div class="relative w-1/2">
+                <input class="p-2 rounded border border-gray-400 w-full" placeholder="Search" type="text"/>
+                <i class="fas fa-search absolute right-3 top-3 text-gray-500"></i>
+            </div>
+        </div>
+        <div class="flex items-center space-x-4">
+            <button class="bg-[#4a90e2] text-white px-4 py-2 rounded">BOOKS</button>
+            <button class="bg-[#4a90e2] text-white px-4 py-2 rounded">DOWNLOAD</button>
+            <i class="fas fa-bell text-2xl"></i>
+            <img alt="User Avatar" class="rounded-full" height="50" src="https://storage.googleapis.com/a1aa/image/SusTF1qfLx10SKEnYmMuAZC5PRVnWt7PKOkSDy-AowQ.jpg" width="50"/>
+        </div>
+    </header>
+    <main class="p-8 bg-white mx-auto max-w-4xl shadow-lg">
+        <h2 class="text-xl font-bold mb-4">Chính sách bảo mật</h2>
+        <p class="mb-4">1. Người chịu trách nhiệm và thông tin liên lạc</p>
+        <p class="mb-4">Chúng tôi cung cấp một nền tảng trực tuyến thông qua đó người dùng có thể trao đổi tài liệu học tập (sau đây gọi là "Trang web"). Chúng tôi xử lý dữ liệu cá nhân theo những quy định của dịch vụ này. Chúng tôi tôn trọng quyền riêng tư của bạn và xử lý dữ liệu cá nhân của bạn một cách cẩn thận theo Quy định chung về quyền riêng tư dữ liệu ("GDPR").</p>
+        <p class="mb-4">Tuyển bố về quyền riêng tư này áp dụng cho việc xử lý dữ liệu cá nhân của tất cả người truy cập Trang web.</p>
+        <p class="mb-4">Bộ điều khiển là Studoc BV ("Studoc"), có trụ sở tại Keizersgracht 424 Soud, 1016 GC Amsterdam (số đăng ký của Phòng Thương mại: 56829787). Nếu bạn có thắc mắc hoặc khiếu nại về Tuyển bố về quyền riêng tư này, vui lòng liên hệ privacy@studoc.com.</p>
+        <p class="mb-4">Chúng tôi có thể thay đổi tuyển bố về quyền riêng tư này theo thời gian. Chúng tôi sẽ hiển thị các phiên bản đã sửa đổi, chúng tôi sẽ hiển thị rõ ràng điều này trên các trang web của mình. Trên trang này, bạn luôn tìm thấy phiên bản mới nhất của tuyển bố về quyền riêng tư của chúng tôi.</p>
+        <p class="mb-4">2. Xử lý dữ liệu cá nhân</p>
+        <p class="mb-4">Dữ liệu cá nhân là tất cả các thông tin có thể trực tiếp hoặc gián tiếp liên quan đến bạn, bao gồm tên, địa chỉ email và khóa học, cũng như hồ sơ mạng xã hội và địa chỉ IP của bạn.</p>
+        <p class="mb-4">Dưới đây là các loại dữ liệu cá nhân mà chúng tôi xử lý khi bạn sử dụng Studoc hoặc truy cập Trang web của chúng tôi, ví dụ khi bạn tải lên tài liệu lên Trang web của chúng tôi mà không cần tài khoản hoặc khi bạn đăng ký tạo tài khoản để sử dụng các chức năng nâng cao của chúng tôi. Một số dữ liệu cá nhân là bắt buộc phải cung cấp vì chúng cần thiết để cung cấp dịch vụ của chúng tôi, dữ liệu khác là tùy chọn để điền vào. Bạn luôn có thể từ chối cung cấp dữ liệu cá nhân của mình.</p>
+        <p class="mb-4">Sau đây, chúng tôi sẽ giải thích lý do vì chúng tôi xử lý dữ liệu cá nhân của bạn và chúng tôi thực hiện việc này trên cơ sở pháp lý nào.</p>
+        <p class="mb-4">Trang web của chúng tôi yêu cầu bạn về quyền riêng tư này, nhưng chúng tôi sẽ giải thích chi tiết về dữ liệu cá nhân của bạn, thời gian chúng tôi lưu giữ dữ liệu cá nhân, những quyền bạn có liên quan đến dữ liệu cá nhân của mình và cách bạn có thể thực hiện những quyền này.</p>
+        <p class="mb-4">2.1. Sử dụng Trang web và Cookie</p>
+        <p class="mb-4">Khi truy cập Trang web của chúng tôi, các tệp văn bản nhỏ, được gọi là "cookie", được thông minh hoặc thiết bị khác của bạn. Các tệp này được gọi là "cookie". Để biết thông tin chi tiết về việc sử dụng cookie và các quyền tương tự, hãy xem tuyên bố về cookie của chúng tôi [liên kết].</p>
+        <p class="mb-4">2.2. Tải lên tài liệu mà không cần tài khoản</p>
+        <p class="mb-4">Nếu bạn làm điều này liên tục mà không cần tài khoản, chúng tôi sẽ xử lý dữ liệu cá nhân của bạn. Ví dụ, dữ liệu của bạn có thể hiển thị trong tệp của các tài liệu bạn đang tải lên, một tài liệu có thể liên quan với nội dung của tài liệu đó thì chúng tôi có thể muốn chỉ ra rằng bạn có thể chọn ẩn danh các tài liệu đã tải lên của mình bằng cách cung cấp các thông tin cá nhân của bạn. Bạn có thể thay đổi tên của tài liệu và xóa tên trong chính tài liệu.</p>
+        <p class="mb-4">Chúng tôi xử lý các dữ liệu như sau đây của bạn:</p>
+        <ul class="list-disc list-inside mb-4">
+            <li>Địa chỉ IP</li>
+            <li>Chi tiết về các tệp có trong nội dung tệp, đó là hoặc nội dung của tài liệu</li>
+            <li>Chi tiết về dữ liệu cá nhân này cho các mục đích sau:</li>
+            <li>Để cung cấp cho bạn quyền truy cập vào Studoc;</li>
+            <li>Để trao đổi tài liệu với các bạn sinh viên khác;</li>
+            <li>Để phân tích hành vi của người dùng;</li>
+        </ul>
+        <p class="mb-4">Cơ sở pháp lý cho việc xử lý dữ liệu cá nhân của bạn cho mục đích (1) và (2) là việc thực hiện thỏa thuận giữa (sử dụng Studoc) và (các hợp pháp để thực hiện đúng các dịch vụ của chúng tôi). Cơ sở pháp lý cho mục đích (3) là lợi ích hợp pháp của chúng tôi trong việc cung cấp dịch vụ của chúng tôi và cải thiện dịch vụ của chúng tôi để phục vụ bạn tốt nhất có thể và để bảo vệ Studoc hoặc người dùng.</p>
+        <p class="mb-4">2.3. Tạo tài khoản</p>
+        <p class="mb-4">Khi bạn tạo tài khoản, bạn phải xác nhận rằng bạn có thể sử dụng tài khoản này bằng cách cung cấp các chi tiết như địa chỉ email của mình và bằng cách tạo tài khoản và bạn cũng có thể đăng ký bằng tài khoản mạng xã hội của mình. Trong trường hợp hợp đó, chúng tôi xử lý dữ liệu cá nhân được liên kết với hồ sơ mạng xã hội của bạn, tùy thuộc vào cài đặt quyền riêng tư bạn đã sử dụng ở đó.</p>
+        <p class="mb-4">ĐIỀU KHOẢN....</p>
+        <p class="mb-4">COOKIES....</p>
+    </main>
+    <footer class="bg-[#c3cfe2] p-4 mt-8">
+        <div class="flex justify-between items-center">
+            <div class="space-y-2">
+            <div>
+            LIÊN HỆ:
+            </div>
+            <div>
+            BLOG.
+            </div>
+            <div>
+            VỀ CHÚNG TÔI.
+            </div>
+            </div>
+            <div class="space-y-2">
+            <div>
+            TRỢ GIÚP.
+            </div>
+            <div>
+            CÂU HỎI THƯỜNG GẶP.
+            </div>
+            <div>
+            PHÒNG TIN TỨC.
+            </div>
+            </div>
+            <div class="space-y-2">
+            <div>
+            PHẢN HỒI.
+            </div>
+            <div>
+            ĐÁNH GIÁ.
+            </div>
+            </div>
+            <div class="flex space-x-4">
+            <i class="fab fa-facebook-f">
+            </i>
+            <i class="fab fa-twitter">
+            </i>
+            <i class="fab fa-google">
+            </i>
+            <i class="fab fa-instagram">
+            </i>
+            </div>
+            <div class="space-y-2">
+            <div>
+            TRỢ GIÚP.
+            </div>
+            <div>
+            CÂU HỎI THƯỜNG GẶP.
+            </div>
+            <div>
+            PHÒNG TIN TỨC.
+            </div>
+            </div>
+            <div class="space-y-2">
+            <div>
+            ĐIỀU KHOẢN.
+            </div>
+            <div>
+            CHÍNH SÁCH HỢP PHÁP.
+            </div>
+            <div>
+            COOKIES.
+            </div>
+            </div>
+        </div>
+
+    </footer>
+    </body>
+    </html>
+
